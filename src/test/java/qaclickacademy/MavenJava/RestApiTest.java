@@ -1,7 +1,6 @@
 package qaclickacademy.MavenJava;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
 
 public class RestApiTest {
 	
@@ -9,6 +8,9 @@ public class RestApiTest {
 	public void postJira()
 	{
 		System.out.println("postJira");
+		System.out.println("postJira2");
+		System.out.println("postJira3");
+		
 
 	}
 	
