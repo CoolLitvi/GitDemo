@@ -1,7 +1,6 @@
 package qaclickacademy.MavenJava;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
 
 public class SeleniumTest {
 	
@@ -17,6 +16,13 @@ public class SeleniumTest {
 	public void elementsUI()
 	{
 		System.out.println("elementsUI");
+
+	}
+	
+	@Test
+	public void elementsUIs()
+	{
+		System.out.println("elementsdaasUI");
 
 	}
 
